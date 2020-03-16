@@ -81,6 +81,11 @@ sections:
     section_id: recent-posts
     title: Latest Posts
     bg: gray
+  - type: section_faq
+    bg: gray
+    faqitems:
+      - question: 'what does faq mean? '
+      - question: 'drop down? '
 menus:
   main:
     title: Home
